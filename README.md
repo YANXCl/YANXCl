@@ -1,17 +1,16 @@
 # AKING
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282175721016)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YANC-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-YANC-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100086924166563)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282175721016)
 
 
+<h1 align="center"> [ YANXX ]</h1>
 
-<h1 align="center"> [YAN XC]</h1>
-
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  FB CRACKER TOOL </h2>
 
 
 ## <b>installation</b>
 
-🔰 _CLONE FULL OK IDZ_
+🔰 _CRACK FB TOLL BROO!_
 
 
 - `pkg update`
@@ -24,7 +23,7 @@ PAID TOOLS
 - `rm -rf AKING`
 - `git clone --depth=1 https://github.com/AKING110/AKING.git`
 - `cd AKING`
-- `python AKING.py`
+- `python run.py`
 
 
 
