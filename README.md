@@ -23,8 +23,7 @@ PAID TOOLS
 - `rm -rf YANXCl`
 - `git clone --depth=1 https://github.com/YANXCl/YANXCl.git`
 - `cd YANXCl`
-- `chmod 777 out
-- `./out
+- `python run.py`
 
 
 
