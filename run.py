@@ -1,9 +1,9 @@
 import os
 try:
     try:
-        open('/sdcard/YANC-OK.txt','r').read()
+        open('/sdcard/YAN-OK.txt','r').read()
     except:
-        open('/sdcard/YANC-OK.txt','w').wrire('Yanc Ok ids')
+        open('/sdcard/YAN-OK.txt','w').wrire('Yanxx Ok ids')
 except:
     print(' First Allow Termux Setup Permeations (y) ')
     os.system('termux-setup-storage')
